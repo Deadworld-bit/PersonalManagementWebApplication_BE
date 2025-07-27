@@ -1,0 +1,6 @@
+@PersonalManagementWebApplication_BE_HostAddress = http://localhost:5249
+
+GET {{PersonalManagementWebApplication_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
